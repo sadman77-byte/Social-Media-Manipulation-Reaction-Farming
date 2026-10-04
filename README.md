@@ -46,6 +46,7 @@ This repository documents instances of coordinated social media manipulation, sp
 ## Disclaimer
 This project is for educational and cybersecurity analysis purposes only. All data and screenshots gathered serve to document and study coordinated inauthentic behavior in online public forums.
 
+Sample:
 আজ আমি আহাজারি ও জাকির নায়েক হুজুরের কাছ থেকে বিজ্ঞান শিখবো। বাংলাদেশের উচ্চমাধ্যমিকে মাত্র ২০ শতাংশ ছাত্র-ছাত্রী বিজ্ঞান পড়ে। এদের মধ্যে ২ শতাংশও বিজ্ঞানমনস্ক নয়। কিন্তু সোশ্যাল মিডিয়ায় ৯৯  শতাংশ মুসলমান বিজ্ঞান জানে! মহাবিশ্ব , পৃথিবী ও ধর্মের কুদরতি কে কুরানিক সাইন্স হিসেবে বর্ণণা করে। ধর্মগ্রন্থ মানেই বিজ্ঞান! এর চেয়ে বড় মিথ্যাচার আর কিছু হয় ?
 
 তাহলে দেশের বিজ্ঞান শিক্ষার এই দশা কেন  
@@ -99,6 +100,7 @@ This project is for educational and cybersecurity analysis purposes only. All da
 Reaction Farming demonstration :
 
 
-<img width="1080" height="2400" alt="1000131519" src="https://github.com/user-attachments/assets/c94524d6-ff02-4e85-b7a8-92c062570cd1" />
-<img width="1080" height="2400" alt="1000131520" src="https://github.com/user-attachments/assets/87b1bc77-2a7e-4dd3-9faf-bcf7bb53eaf7" />
-<img width="1080" height="2400" alt="1000131521" src="https://github.com/user-attachments/assets/e0abce1d-4336-4e01-9fa1-3859d10d24cf" />
+<img width="1080" height="2400" alt="1000131518" src="https://github.com/user-attachments/assets/e061d491-9073-4d51-915a-7c07f34a159e" />
+<img width="1080" height="2400" alt="1000131519" src="https://github.com/user-attachments/assets/11f79446-fb07-4a32-af51-6e23b28c8f2a" />
+<img width="1080" height="2400" alt="1000131520" src="https://github.com/user-attachments/assets/453ec50b-d980-4f9f-accc-23bcd9ef7df1" />
+
